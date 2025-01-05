@@ -1,0 +1,120 @@
+TA4 is marking student 1.
+TA4 gave student 1 the following grade: 7
+TA4 is marking student 678.
+TA4 gave student 678 the following grade: 2
+TA4 is marking student 1247.
+TA4 gave student 1247 the following grade: 0
+TA4 is marking student 1876.
+TA4 gave student 1876 the following grade: 5
+TA4 is marking student 2490.
+TA4 gave student 2490 the following grade: 3
+TA4 is marking student 2623.
+TA4 gave student 2623 the following grade: 1
+TA4 is marking student 3105.
+TA4 gave student 3105 the following grade: 7
+TA4 is marking student 3752.
+TA4 gave student 3752 the following grade: 5
+TA4 is marking student 4123.
+TA4 gave student 4123 the following grade: 1
+TA4 is marking student 4801.
+TA4 gave student 4801 the following grade: 2
+TA4 is marking student 5109.
+TA4 gave student 5109 the following grade: 7
+TA4 is marking student 5728.
+TA4 gave student 5728 the following grade: 8
+TA4 is marking student 6465.
+TA4 gave student 6465 the following grade: 1
+TA4 is marking student 6879.
+TA4 gave student 6879 the following grade: 5
+TA4 is marking student 7345.
+TA4 gave student 7345 the following grade: 4
+TA4 is marking student 7722.
+TA4 gave student 7722 the following grade: 4
+TA4 is marking student 8023.
+TA4 gave student 8023 the following grade: 0
+TA4 is marking student 8690.
+TA4 gave student 8690 the following grade: 0
+TA4 is marking student 9166.
+TA4 gave student 9166 the following grade: 9
+TA4 is marking student 9999.
+TA4 gave student 9999 the following grade: 0
+TA4 is marking student 1.
+TA4 gave student 1 the following grade: 5
+TA4 is marking student 678.
+TA4 gave student 678 the following grade: 0
+TA4 is marking student 1247.
+TA4 gave student 1247 the following grade: 3
+TA4 is marking student 1876.
+TA4 gave student 1876 the following grade: 6
+TA4 is marking student 2490.
+TA4 gave student 2490 the following grade: 5
+TA4 is marking student 2623.
+TA4 gave student 2623 the following grade: 7
+TA4 is marking student 3105.
+TA4 gave student 3105 the following grade: 3
+TA4 is marking student 3752.
+TA4 gave student 3752 the following grade: 5
+TA4 is marking student 4123.
+TA4 gave student 4123 the following grade: 0
+TA4 is marking student 4801.
+TA4 gave student 4801 the following grade: 1
+TA4 is marking student 5109.
+TA4 gave student 5109 the following grade: 0
+TA4 is marking student 5728.
+TA4 gave student 5728 the following grade: 7
+TA4 is marking student 6465.
+TA4 gave student 6465 the following grade: 1
+TA4 is marking student 6879.
+TA4 gave student 6879 the following grade: 9
+TA4 is marking student 7345.
+TA4 gave student 7345 the following grade: 1
+TA4 is marking student 7722.
+TA4 gave student 7722 the following grade: 4
+TA4 is marking student 8023.
+TA4 gave student 8023 the following grade: 10
+TA4 is marking student 8690.
+TA4 gave student 8690 the following grade: 6
+TA4 is marking student 9166.
+TA4 gave student 9166 the following grade: 7
+TA4 is marking student 9999.
+TA4 gave student 9999 the following grade: 10
+TA4 is marking student 1.
+TA4 gave student 1 the following grade: 8
+TA4 is marking student 678.
+TA4 gave student 678 the following grade: 1
+TA4 is marking student 1247.
+TA4 gave student 1247 the following grade: 5
+TA4 is marking student 1876.
+TA4 gave student 1876 the following grade: 8
+TA4 is marking student 2490.
+TA4 gave student 2490 the following grade: 7
+TA4 is marking student 2623.
+TA4 gave student 2623 the following grade: 9
+TA4 is marking student 3105.
+TA4 gave student 3105 the following grade: 1
+TA4 is marking student 3752.
+TA4 gave student 3752 the following grade: 7
+TA4 is marking student 4123.
+TA4 gave student 4123 the following grade: 7
+TA4 is marking student 4801.
+TA4 gave student 4801 the following grade: 10
+TA4 is marking student 5109.
+TA4 gave student 5109 the following grade: 6
+TA4 is marking student 5728.
+TA4 gave student 5728 the following grade: 10
+TA4 is marking student 6465.
+TA4 gave student 6465 the following grade: 10
+TA4 is marking student 6879.
+TA4 gave student 6879 the following grade: 9
+TA4 is marking student 7345.
+TA4 gave student 7345 the following grade: 5
+TA4 is marking student 7722.
+TA4 gave student 7722 the following grade: 2
+TA4 is marking student 8023.
+TA4 gave student 8023 the following grade: 3
+TA4 is marking student 8690.
+TA4 gave student 8690 the following grade: 7
+TA4 is marking student 9166.
+TA4 gave student 9166 the following grade: 5
+TA4 is marking student 9999.
+TA4 gave student 9999 the following grade: 3
