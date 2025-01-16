@@ -2,10 +2,6 @@
 
 This repository contains a solution to a concurrency problem using Unix/Linux shared memory, semaphores, and processes. The problem involves coordinating five Teaching Assistants (TAs) marking exams concurrently while accessing a shared database of students. The solution is implemented incrementally and adheres to the specified requirements for process synchronization and inter-process communication.
 
-## Repository Name
-
-`concurrent-processes-ta-marking`
-
 ## Problem Description
 
 Five Teaching Assistants (TAs) are tasked with marking a pile of exams. They:
